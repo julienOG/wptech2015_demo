@@ -1,0 +1,22 @@
+#Fichiers inutiles de windows, mac et linux
+*.db
+.DS_Store
+._*
+*~
+
+#Fichiers IDE
+nbproject/*
+.settings/*
+.buildpath
+.project
+
+
+# fichiers pouvant contenir des configs
+/.htaccess
+/.htpasswd
+/wp-config.php
+/wp-content/uploads
+/wp-content/cache
+
+# Fichiers du plugin W3 Total Cache
+/wp-content/w3*
