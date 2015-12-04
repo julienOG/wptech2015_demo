@@ -14,5 +14,5 @@
 	 */
 	do_action( 'storefront_loop_post' );
 	?>
-
+toto
 </article><!-- #post-## -->
