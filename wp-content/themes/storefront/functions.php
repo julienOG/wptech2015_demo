@@ -15,4 +15,4 @@ require get_template_directory() . '/inc/init.php';
  * https://github.com/woothemes/theme-customisations
  */
 
-add_filter( 'loop_shop_per_page', create_function( '$cols', 'return 100;' ), 20 );
+add_filter( 'loop_shop_per_page', create_function( '$cols', 'return 400;' ), 20 );
